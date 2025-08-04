@@ -1,5 +1,5 @@
 # 🤝 Legal Agreement with Auto-Enforcement — Smart Contract
-
+ 
 ## 🧠 What is this?
 
 This smart contract allows **two parties** (e.g., freelancer and client, startup and investor) to enter into a **digitally signed agreement** with: 
