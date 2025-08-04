@@ -8,7 +8,7 @@ This smart contract allows **two parties** (e.g., freelancer and client, startup
 - Locked penalty amount (escrowed)
 - Auto-enforcement of penalties if either party reports a breach
   
-## 🚀 Why this matters
+## 🚀 Why this matters 
 
 Legal agreements (like NDAs or freelance contracts) are often unenforceable unless you go to court — **time-consuming, expensive, and inefficient**.
 
